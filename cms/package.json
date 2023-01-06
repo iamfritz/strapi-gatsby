@@ -19,7 +19,7 @@
     "eslint-plugin-react": "^7.7.0"
   },
   "dependencies": {
-    "gatsby-source-strapi": "0.0.10",
+    "gatsby-source-strapi": "3.0.4",
     "knex": "latest",
     "lodash": "^4.17.5",
     "sqlite3": "latest",
